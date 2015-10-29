@@ -1,0 +1,13 @@
+admin: XrxTech123
+SMTP: mail.xrxtechnologies.co.ke
+Host Name: 192.168.10.178
+
+
+
+Instance ID (DS Uninstalled): 			98eab6d18b58b55e92ef05c48499bc13aa2dd46b02dc07391c716f1dcc30acde96bfd9f4a0b3783e
+Instance ID (DS New Installed):  		b899f30a8da96fbf1ebe6377983a881e86be6c858fafaf26e0356d6c303d07215f5983d8a101b2b3
+Instance ID (DS New Install Changed):	
+
+DS Host ID (DS Uninstalled): 			B3D93A26016D9900505691ACFD3
+DS Host ID (DS New Installed):  		B3D93A3AD7919E00505691ACFD3
+DS Host ID (Post Instance ID Change ):		B3D93A26016D9900505691ACFD3  

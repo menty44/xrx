@@ -1,0 +1,9 @@
+Host Name: 192.168.10.178
+
+UNINSTALL
+
+Keep datastore: NO
+
+
+
+ 

@@ -1,0 +1,5 @@
+admin: XrxTech123
+SMTP: mail.xrxtechnologies.co.ke
+
+
+DS Host ID: B3D93A26016D9900505691ACFD3
